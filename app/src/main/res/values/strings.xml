@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Restaurant Reviews</string>
+
+    <!-- Login Activity -->
+    <string name="login_title">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <!-- Main Activity -->
+    <string name="add_restaurant">Add Restaurant</string>
+
+    <!-- New Restaurant Activity -->
+    <string name="add_new_restaurant">Add New Restaurant</string>
+    <string name="restaurant_photo">Restaurant Photo</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="postcode">Postcode</string>
+    <string name="food_type">Type of Food</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+
+    <!-- Restaurant Detail Activity -->
+    <string name="leave_review">Leave Review</string>
+    <string name="reviews">Reviews</string>
+
+    <!-- Review Activity -->
+    <string name="your_comment">Your Comment</string>
+    <string name="service_rating">Service Rating</string>
+    <string name="value_rating">Value Rating</string>
+    <string name="food_rating">Food Rating</string>
+    <string name="submit_review">Submit Review</string>
+    <string name="restaurant_image">Restaurant Image</string>
+
+
+    <!-- Menu Items -->
+    <string name="menu_logout">Logout</string>
+    <string name="menu_login">Login</string>
+    <string name="google_maps_key">YOUR_API_KEY_HERE</string>
+
+
+</resources>
